@@ -274,3 +274,39 @@ footer_column {
     text-decoration: none;
     padding-bottom: 5px;
 }
+h3 {
+    font-family: Assistant, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    font-weight: 00;
+    margin-bottom: 5px;
+    margin-top: 25px;
+    color: #282c3f;
+}
+.footer_para {
+    font-family: Assistant, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    font-weight: 80;
+    color: #696b79;
+    padding-bottom: 5px;
+}
+hr {
+    margin: 20px 0;
+    border: 0;
+    width: 100%;
+    height: 1px;
+    background-color: #eaeaec;
+}
+footer p {
+    margin: 20px;
+}
+.contact {
+    display: flex;
+    justify-content: space-around;
+}
+.email {
+    display: inline-block;
+}
+.phone {
+    margin: 0px 0;
+    display: inline-block;
+}
